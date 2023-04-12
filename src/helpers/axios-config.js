@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-    baseURL:'https://apimongo24.herokuapp.com/api/'
+    baseURL:'https://my-backend-api.herokuapp.com/api/'
 
 });
 
